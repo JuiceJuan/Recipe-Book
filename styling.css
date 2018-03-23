@@ -31,13 +31,16 @@ a {
 
 a:hover {
   color: #aaa;
+  text-shadow: none;
 }
 
 .search {
   padding: 2px;
   border-radius: 5px;
 }
-
+.search:focus {
+  background: #e1e4ea;
+}
 /* Everything above is navigtion */
 
 #hot-topics {
