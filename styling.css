@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css?family=Oxygen');
+
+
+body {
+  margin: 0 auto;
+}
+
+#heading {
+  background-color: white;
+  padding: 20px 25px;
+  background-color: #333;
+}
+
+h2 {
+  color: white;
+  font-family: Helvetica, Arial;
+}
+
+nav {
+  float: right;
+  margin: -45px 65px;
+}
+
+a {
+  text-decoration: none;
+  margin-right: 25px;
+  color: white;
+  font-size: 1.25em;
+  text-shadow: .5px .5px white;
+}
+
+a:hover {
+  color: #aaa;
+}
+
+.search {
+  padding: 2px;
+  border-radius: 5px;
+}
+
+/* Everything above is navigtion */
+
+#hot-topics {
+  font-family: 'Oxygen', Helvetica, Arial, sans-serif;
+}
